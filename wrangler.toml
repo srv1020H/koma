@@ -1,0 +1,6 @@
+name = "video-uploader"
+type = "javascript"
+
+[[kv_namespaces]]
+binding = "VIDEOS"
+id = "3ce4385870fa433bb2fca5952735fbb0"
